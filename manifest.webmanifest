@@ -1,0 +1,21 @@
+{
+  "name": "EDSA Runner",
+  "short_name": "EDSA Runner",
+  "description": "Takbo sa EDSA! Isang 3D endless runner — iwasan ang jeep, bus at ang humahabol na enforcer.",
+  "lang": "fil",
+  "id": "./",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "portrait",
+  "background_color": "#1a2a4a",
+  "theme_color": "#1a2a4a",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/maskable-192.png", "sizes": "192x192", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
